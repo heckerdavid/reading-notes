@@ -1,23 +1,24 @@
-#this is my reading notes for markdown reading assignment
+# this is my reading notes for markdown reading assignment
 
 some information I saw is:
 
-##heading two
+## heading two is created by using "##" followed by a space
 
-###heading three
+### heading three follows the same pattern, except adding an additional #
 
-- unordered list or something
+- unordered list 
+- is creared
+- by using either
+- "-" and then a space
+- or
+- "*" and then a space
 
-####growth mindset
-Growth mindset is not allowing your preconceived notions to limit your ability.
-*Progress* makes perfect
+to enter a [hyperlink](http://google.com) you simply put the word you want linked in brackets [] followed by the link in ()
 
-To stay in a growth mindset I will:
-*ABC! Always Be Curious
-*Utilize [resources](http://google.com)
-*Ask questions
-*Listen to others
+you can mention someone by using the @ symbol followed by thier github username eg. @heckerdavid
 
-"success teaches us nothing, only failure teaches" - ADM Rickover
+new paragraphs are started by leaving blank lines between text in the file editor
 
-
+you can ignore markdown syntax with the \ key. this allows you to show syntax that markdown would otherwise interpret. if i use \ followed by ## it displays:
+\## 
+which is obviously not displayed as a header
