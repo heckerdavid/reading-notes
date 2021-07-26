@@ -1,5 +1,6 @@
-# reading-notes
-reading notes for CodeFellows
+# Hi! My name is David
+I want to be a software developer.
+Checkout my (currently empty) [github](https://github.com/heckerdavid)!
 
 ## Growth Mindset
 Growth mindset is not allowing your preconceived notions to limit your ability.
