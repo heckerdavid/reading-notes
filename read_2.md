@@ -8,12 +8,15 @@ opened), and color code your code to make it easier to read.
 - Notepad++ 
 
 Notepad++ is windows only, no go.
+
 - text wrangler/BB edit
 
 text wrangler is retired as of 2017, and BB edit is pay to play, no go.
+
 -Atom
 
 Atom is designed and maintained by developers at github. an excellent free choice with lots of flexibility.
+
 - Visual Studio Code
 
 VS Code is a free software developed and maintained by microsoft. It performs equally well on Windows, MacOS, and Linux. VS Code also features an impressive list of 
