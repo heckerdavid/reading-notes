@@ -2,9 +2,13 @@
 
 some information I saw is:
 
+## Github pages is the fastest, most direct way to get a webpage accessible on the internet. it uses your github profile and a repository that you create, and publishes a live webpage!
+it does require a README.MD or an INDEX.HTML file to be in the repository. Today we will use a readme.md file with some basic markdown to produce content.
+# Markdown Basics!
+
 ## heading two is created by using "##" followed by a space
 
-### heading three follows the same pattern, except adding an additional #
+### heading three follows the same pattern, except adding an additional \#
 
 - unordered list 
 - is creared
