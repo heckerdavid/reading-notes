@@ -13,7 +13,7 @@ Notepad++ is windows only, no go.
 
 text wrangler is retired as of 2017, and BB edit is pay to play, no go.
 
--Atom
+- Atom
 
 Atom is designed and maintained by developers at github. an excellent free choice with lots of flexibility.
 
@@ -38,5 +38,5 @@ ls | list | lists the files/folders in your current directory
 . | current directory | where you are now
 .. | parent directory | the folder your current directory is in
 cd | change directory | takes you to home directory
-cd [directory] | changes directory to [directory]
+cd [directory] | change directory | changes directory to [directory]
 tab | auto complete | finishes typing, automatically completes your typed entry if a given filepath exists
