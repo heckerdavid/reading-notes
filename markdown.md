@@ -26,3 +26,8 @@ new paragraphs are started by leaving blank lines between text in the file edito
 you can ignore markdown syntax with the \ key. this allows you to show syntax that markdown would otherwise interpret. if i use \ followed by ## it displays:
 \## 
 which is obviously not displayed as a header
+
+~~mistakes~~ can be represented with strikethrough. this is done using the \~~ keys before and after the text you want lined out.
+
+to quote the github docs:
+>you can use \> to present a quote like this
