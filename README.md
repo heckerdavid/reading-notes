@@ -5,8 +5,8 @@ Checkout my (currently empty) [github](https://github.com/heckerdavid)!
 
 ## Pages
 
-[home](README.md)
-[markdown](markdown.md)
+[home](README.md)t
+[reading 01](markdown.md)
 [reading 02](read_2.md)
 [reading 03](read_03.md)
 
@@ -16,6 +16,7 @@ Growth mindset is not allowing your preconceived notions to limit your ability.
 *Progress* makes __perfect__
 
 To stay in a growth mindset I will:
+
 * ABC! Always Be Curious
 * Utilize [resources](http://google.com)
 * Ask questions

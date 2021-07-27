@@ -24,27 +24,29 @@ the current version(most recent commit) is referred to as the head
 
 comments allow for information pertaining to the commit to be added, making historical reference simple
 
-### Repositories 
+### Repositories
 
 A collection of files with git tracking. Normally one per project, in some cases one repo is used for front end and one  for the backend.
+
 ### Git help
 
 for more info on a command you can use
 
->>> git help [command]
->>> git [commmand] --help
->>> man git [command]
+- git [commmand] --help
+- man git [command]
+- git help [command]
 
 ### ACP commands
 
 - Add
-    - git add [file]
+  - git add [file]
 - Commit
-    - git commit -m "comment"
+  - git commit -m "comment"
 - Push
-    - git push origin main        
+  - git push origin main
 
 these commands can change the git state. Git files can exist in three different states.
+
 1. Committed
 2. Modified
 3. Staged
@@ -52,6 +54,7 @@ these commands can change the git state. Git files can exist in three different 
 ### More commands
 
 - git status
-    - returns current status of tracked files
+  - returns current status of tracked files
 - git clone [link] [directory*optional]
-    - copies files from the linked repo to local directory
+  - copies files from the linked repo to local directory
+  
