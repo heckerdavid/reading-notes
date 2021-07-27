@@ -43,6 +43,9 @@ ls -l | list | lists all files & additional info
 | .. | parent directory | the folder your current directory is in |
 | cd | change directory | takes you to home directory |
 | cd \[directory] | change directory | changes directory to \[directory] |
+
+---
+
 | tab | auto complete | finishes typing, automatically completes your typed entry if a given filepath exists |
 | code .\[file] | VS code | opens VC code or opens \[file] with VS code |
 | mkdir \[name] | make directory | makes a folder \[name] |
