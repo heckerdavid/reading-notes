@@ -6,6 +6,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 ## Pages
 
 [home](README.md)
+[growth mindset](growth_mindset.md)
 [reading 01](markdown.md)
 [reading 02](read_2.md)
 [reading 03](read_03.md)
