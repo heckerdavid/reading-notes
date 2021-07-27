@@ -34,9 +34,26 @@ background as you do all the "normal" things you are used to doing.
 
 pwd | print working directory | tells you where you currently are
 ls | list | lists the files/folders in your current directory
+ls -a | list | lists all files/folders in current directory (including hiden files)
+ls -l | list | lists all files + additional info
+ls -1 | list | lists files one file per line
 ~ | home directory | shortcut to home
 . | current directory | where you are now
 .. | parent directory | the folder your current directory is in
 cd | change directory | takes you to home directory
 cd [directory] | change directory | changes directory to [directory]
 tab | auto complete | finishes typing, automatically completes your typed entry if a given filepath exists
+code .[file] | VS code | opens VC code or opens [file] with VS code
+mkdir [name] | make directory | makes a folder [name]
+touch [file] | make file | creates [file]
+cp [file][directory] | copy | copys [file] to [directory]
+mv [file][dir] | move | moves file to dir
+brew doctor | home brew | check for home brew issues
+brew install [thing] | home brew | installs [thing]
+brew list | home brew | lists all home brew installed items
+brew upgrade | home brew | updates home brew installed items
+brew update | homme brew | returns latest version of home brew installed items
+brew cleanup | home brew | removes outdated files
+find [dir] -name[file] | search | returns [file] inside [dir]
+grep "<text>" [file] | search | returns [text] inside [file]
+grep -rl"<text>" [dir] | search | returns file containing [text] inside [dir]
