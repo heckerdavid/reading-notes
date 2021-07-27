@@ -33,6 +33,7 @@ its all of the things that scare you about computers, in one place. It is also t
 background as you do all the "normal" things you are used to doing.
 
 ---
+
 pwd | print working directory | tells you where you currently are
 ls | list | lists the files/folders in your current directory
 ls -a | list | lists all files/folders in current directory (including hiden files)
