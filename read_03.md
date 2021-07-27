@@ -40,10 +40,16 @@ for more info on a command you can use
 
 - Add
   - git add [file]
+    - adds [file] to staged
 - Commit
-  - git commit -m "comment"
+  - git commit -m "comment" 
+    - can be used for multiple files, comment will apply to all
+  - git commit -a
+    - commits all file changes  
+
 - Push
   - git push origin main
+    - pushes commited files to main repo
 
 these commands can change the git state. Git files can exist in three different states.
 
@@ -57,4 +63,3 @@ these commands can change the git state. Git files can exist in three different 
   - returns current status of tracked files
 - git clone [link] [directory*optional]
   - copies files from the linked repo to local directory
-  
