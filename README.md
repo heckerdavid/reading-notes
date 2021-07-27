@@ -5,7 +5,7 @@ Checkout my (currently empty) [github](https://github.com/heckerdavid)!
 
 ## Pages
 
-[home](README.md)t
+[home](README.md)
 [reading 01](markdown.md)
 [reading 02](read_2.md)
 [reading 03](read_03.md)
