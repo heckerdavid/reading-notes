@@ -1,7 +1,6 @@
 # Version Control
 
-Version Control Systems (VCS) allow for tracking and storing of a project at different stages in its life, this allows you to empliment new features without 
-worrying about destoring your project. Cause a massive bug you cant fix? Simply revert to a previous version. Hate the new feature you spend weeks on? revert it away.
+Version Control Systems (VCS) allow for tracking and storing of a project at different stages in its life, this allows you to empliment new features without worrying about destoring your project. Cause a massive bug you cant fix? Simply revert to a previous version. Hate the new feature you spend weeks on? revert it away.
 
 ## VCS can be
 
@@ -14,7 +13,7 @@ worrying about destoring your project. Cause a massive bug you cant fix? Simply 
 Git is a extremely popular DVCS.
 
 - allows for multiple developers to work simultaniously on the same project
-- keeps a retrieveable, historical record of changes 
+- keeps a retrieveable, historical record of changes
 
 ### Commits
 
@@ -41,8 +40,9 @@ for more info on a command you can use
 - Add
   - git add [file]
     - adds [file] to staged
+
 - Commit
-  - git commit -m "comment" 
+  - git commit -m "comment"
     - can be used for multiple files, comment will apply to all
   - git commit -a
     - commits all file changes  
