@@ -10,6 +10,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Markdown](markdown.md)
 - [IDEs & Terminal](read_2.md)
 - [Git](read_03.md)
+- [HTML](read_04.md)
 
 ## "success teaches us nothing, only failure teaches"
 
