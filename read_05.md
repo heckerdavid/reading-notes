@@ -64,7 +64,7 @@ color can be specified with:
 
 ### References
 
-[Mozilla CSS refernece sheets](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-[CSS almanac](https://css-tricks.com/almanac/)
-[W3 Schools how to add CSS](https://www.w3schools.com/css/css_howto.asp)
-[W3 schools color](https://www.w3schools.com/cssref/pr_text_color.asp)
+- [Mozilla CSS refernece sheets](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [CSS almanac](https://css-tricks.com/almanac/)
+- [W3 Schools how to add CSS](https://www.w3schools.com/css/css_howto.asp)
+- [W3 schools color](https://www.w3schools.com/cssref/pr_text_color.asp)
