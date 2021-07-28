@@ -13,6 +13,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [HTML](read_04.md)
 - [CSS](read_05.md)
 - [JavaScript](read_06.md)
+- [functionality](read_07.md)
 
 ## "success teaches us nothing, only failure teaches"
 
