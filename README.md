@@ -12,6 +12,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Git](read_03.md)
 - [HTML](read_04.md)
 - [CSS](read_05.md)
+- [JavaScript](read_06.md)
 
 ## "success teaches us nothing, only failure teaches"
 
