@@ -1,5 +1,3 @@
-# hi melissa
-
 # JavaScript Operators
 
 JS has:
@@ -19,9 +17,7 @@ operators.
 
 ## Functions
 
-
-
-###### References
+### References
 
 - [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
