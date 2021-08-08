@@ -3,7 +3,7 @@
 I want to be a software developer.
 Checkout my (in progress) [github](https://github.com/heckerdavid)!
 
-## Pages
+## Code 102
 
 - [home](README.md)
 - [growth mindset](growth_mindset.md)
@@ -16,6 +16,9 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Operators](read_07.md)
 - [Loops](read_08.md)
 
+## Code 201
+
+- [Class 01 - Intro](class_01.md)
 ## "success teaches us nothing, only failure teaches"
 
 > ADM H.G. Rickover
