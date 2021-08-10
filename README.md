@@ -19,6 +19,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 ## Code 201
 
 - [Class 01 - Intro](class_01.md)
-## "success teaches us nothing, only failure teaches"
+- [Class 02 - Basics of HTML, CSS, & JavaScript](class-02.md)
+## "Success teaches us nothing, only failure teaches"
 
 > ADM H.G. Rickover
