@@ -49,11 +49,35 @@ page 162-182
   - data types are not required to be declared in JS, types can also change within variables.
   - JS will automatically change some data types if unapplicable operators are run on them
 
-- Truthy 
+- Truthy
   - expressions that evaluate True
 
 - Falsy
   - expressions that evaluate Flase
 
 - type coercion
-  -   
+  - string will auto convert to int if mathematical operators are applied to it
+
+- Equality
+  - `==` checks for eqivalent return values
+  - `===` checks for equivalent variable values
+
+- short circuit
+  - operation stops checking as soon as first required parameter is met
+  - eg. `if (true || x = 1){}` x is not checked, as the first parameter completes the if statement requirements
+
+## Loops
+
+- for
+  - run a specific number of times
+  - has three parameters
+    - initialization - starting point/counting variable, should be `i`
+    - condition - the limiting factor `i < 100`
+    - update - increment i
+  - eg. `for (i=0; i<100; i++) {outputcode}
+
+- while
+  - run an unknown number of times
+
+- do while
+  - similar to while, but will run the code ALWAYS at least once
