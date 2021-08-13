@@ -22,6 +22,8 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Class 02 - Basics of HTML, CSS, & JavaScript](class-02.md)
 - [Class 03 - HTML lists, Control Flow with JS, CSS Box Model](class-03.md)
 - [Class 04 - HTML links, CSS layout, JS functions](class-04.md)
+- [Class 05 - HTML images, CSS color & text](class-05.md)
+
 ## "Success teaches us nothing, only failure teaches"
 
 > ADM H.G. Rickover
