@@ -24,6 +24,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Class 04 - HTML links, CSS layout, JS functions](class-04.md)
 - [Class 05 - HTML images, CSS color & text](class-05.md)
 - [Class 06 - Problem Domain, Objects, and the DOM](class-06.md)
+- [Class 07 - OOP, HTML tables](class-07.md)
 
 ## "Success teaches us nothing, only failure teaches"
 
