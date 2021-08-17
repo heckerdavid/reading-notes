@@ -14,3 +14,18 @@
 - fixed positioning
   - similar to absulute position
   - positions element relative to browser window
+- floating elements
+  - out of normal flow
+  - positioned in far right or far left of *containing* box
+  - becomes block level
+  - repositions other elements
+- Z-Index
+  - layers
+  - higher numbers to the front
+- clear
+  - can be applied when you float mutlitple items
+  - clear left insures no items touch the left side of the cleared item
+  - can clear left right top or bottom
+- different screen sizes
+  - most web designers use 960-1000px wide pages
+  - you can also use responsive elements instead of fixed width
