@@ -26,6 +26,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Class 06 - Problem Domain, Objects, and the DOM](class-06.md)
 - [Class 07 - OOP, HTML tables](class-07.md)
 - [Class 08 - CSS Layout](class-08.md)
+- [Class 09 - HTML lists, tables, and forms, JavaSctript events](class-09.md)
 
 ## "Success teaches us nothing, only failure teaches"
 
