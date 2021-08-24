@@ -30,6 +30,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Class 10 - JavaScript Error handling and debugging.](class-10.md)
 - [Class 11 - Audio, Video, Images](class-11.md)
 - [Class 12 - Chart.js, Canvas](class-12.md)
+- [Class 13 - Local Storage](class-13.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
