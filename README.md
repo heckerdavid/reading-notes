@@ -31,7 +31,8 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Class 11 - Audio, Video, Images](class-11.md)
 - [Class 12 - Chart.js, Canvas](class-12.md)
 - [Class 13 - Local Storage](class-13.md)
-- [Class 14 - Googles team research](class-14.md)
+- [Class 14a - Googles team research](class-14.md)
+- [CLass 14b - CSS](class-14b.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
