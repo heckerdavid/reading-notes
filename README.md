@@ -32,9 +32,11 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Class 12 - Chart.js, Canvas](class-12.md)
 - [Class 13 - Local Storage](class-13.md)
 - [Class 14a - Googles team research](class-14.md)
-- [CLass 14b - CSS](class-14b.md)
+- [Class 14b - CSS](class-14b.md)
 
 ## Code 301
+
+- [Reading 1 - Intro to React and Components](301-1.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
