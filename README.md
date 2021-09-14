@@ -37,6 +37,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 ## Code 301
 
 - [Reading 1 - Intro to React and Components](301-1.md)
+- [Reading 2 - State and Props](301-2.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
