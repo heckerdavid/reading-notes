@@ -39,6 +39,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 1 - Intro to React and Components](301-1.md)
 - [Reading 2 - State and Props](301-2.md)
 - [Reading 3 - Passing Functions as Props](301-3.md)
+- [Reading 4 - React and Forms](301-4.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
