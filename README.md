@@ -42,6 +42,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 4 - React and Forms](301-4.md)
 - [Reading 5 - Putting it all Together](301-5.md)
 - [Reading 6 - NODE.js](301-6.md)
+-[Reading 7 - REST](301-7.md)
 ## `"Success teaches us nothing, only failure teaches"`
 
 > ADM H.G. Rickover
