@@ -44,6 +44,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 6 - NODE.js](301-6.md)
 - [Reading 7 - REST](301-7.md)
 - [Reading 8 - APIs](301-8.md)
+- [Reading 9 - Functional Programming](301-9.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
