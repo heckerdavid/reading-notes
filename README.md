@@ -45,6 +45,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 7 - REST](301-7.md)
 - [Reading 8 - APIs](301-8.md)
 - [Reading 9 - Functional Programming](301-9.md)
+- [Reading 10 - In Memory Storage](301-10.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
