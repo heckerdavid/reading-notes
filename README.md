@@ -48,6 +48,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 10 - In Memory Storage](301-10.md)
 - [Reading 11 - SQL/NoSQL](301-11.md)
 - [Reading 12 - CRUD](301-12.md)
+- [Reading 13 - Diversity & Inclusion in the Tech Industry](301-13.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
