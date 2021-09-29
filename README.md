@@ -49,6 +49,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 11 - SQL/NoSQL](301-11.md)
 - [Reading 12 - CRUD](301-12.md)
 - [Reading 13 - Diversity & Inclusion in the Tech Industry](301-13.md)
+- [Reading 14 - Authentication](301-14.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
