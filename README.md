@@ -51,6 +51,10 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 13 - Diversity & Inclusion in the Tech Industry](301-13.md)
 - [Reading 14 - Authentication](301-14.md)
 
+## Code 401
+
+- [Reading 1 - Big O and Python](401-1.md)
+
 ## `"Success teaches us nothing, only failure teaches"`
 
 > ADM H.G. Rickover
