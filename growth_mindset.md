@@ -17,3 +17,5 @@ To stay in a growth mindset I will:
 - [TED - The power of believing you can improve, Carol Dweck](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
 - [TED - Grit: the power of passion and perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
 - [TED - a kinder, gentler philosophy of success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
+- [Measuring Emotional Intelligence](https://codefellows.github.io/common_curriculum/prep_work/emotional-intelligence-assessment.html)
+ - [Assessing Bias](https://codefellows.github.io/common_curriculum/prep_work/bias-assessment.html)
