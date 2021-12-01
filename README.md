@@ -54,6 +54,9 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 ## Code 401
 
 - [Reading 1 - Big O and Python](401-1.md)
+- [Reading 2 - Testing and Modules](401-2.md)
+- [Reading 3 - FileIO and Exceptions](401-3.md)
+- [Reading 4 - Classes, Objects, and Recursion](401-4.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
