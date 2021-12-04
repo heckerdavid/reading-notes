@@ -58,6 +58,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 3 - FileIO and Exceptions](401-3.md)
 - [Reading 4 - Classes, Objects, and Recursion](401-4.md)
 - [Reading 5 - Linked Lists](401-5.md)
+- [Reading 6 - Game of Greed 1](401-6.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
