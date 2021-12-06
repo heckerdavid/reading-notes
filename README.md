@@ -59,6 +59,8 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 4 - Classes, Objects, and Recursion](401-4.md)
 - [Reading 5 - Linked Lists](401-5.md)
 - [Reading 6 - Game of Greed 1](401-6.md)
+- [Reading 7 - Game of Greed 2](401-7.md)
+
 
 ## `"Success teaches us nothing, only failure teaches"`
 
