@@ -60,7 +60,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 5 - Linked Lists](401-5.md)
 - [Reading 6 - Game of Greed 1](401-6.md)
 - [Reading 7 - Game of Greed 2](401-7.md)
-
+- [Reading 8 - Game of Greed 3](401-8.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
