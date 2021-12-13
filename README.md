@@ -64,6 +64,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 9 - Game of Greed 4](401-9.md)
 - [Reading 10 - Stacks and Queues](401-10.md)
 - [Reading 11 - Data Analysis](401-11.md)
+- [Reading 12 - Data With Pandas](401-12.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
