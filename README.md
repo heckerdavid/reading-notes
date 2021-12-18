@@ -67,6 +67,8 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 12 - Data With Pandas](401-12.md)
 - [Reading 13 - Linear Regression](401-13.md)
 - [Reading 14 - Data Visualization](401-14.md)
+- [Reading 15 - Trees](401-15.md)
+- [Reading 16 - Serverless Functions](401-16.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
