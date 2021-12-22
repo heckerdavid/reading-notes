@@ -71,6 +71,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 16 - Serverless Functions](401-16.md)
 - [Reading 17 - Web Scraping](401-17.md)
 - [Reading 18 - Cryptography](401-18.md)
+- [Reading 19 - Automation](401-19.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
