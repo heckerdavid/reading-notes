@@ -73,6 +73,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 18 - Cryptography](401-18.md)
 - [Reading 19 - Automation](401-19.md)
 - [Reading 20 - Django](401-20.md)
+- [Reading 21 - Django Models](401-21.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
