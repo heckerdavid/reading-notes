@@ -75,6 +75,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 20 - Django](401-20.md)
 - [Reading 21 - Django Models](401-21.md)
 - [Reading 22 - Django CRUD and forms](401-22.md)
+- [Reading 23 - Django Custom User](401-23.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
