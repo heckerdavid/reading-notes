@@ -77,6 +77,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 22 - Django CRUD and forms](401-22.md)
 - [Reading 23 - Django Custom User](401-23.md)
 - [Reading 24 - Django REST API, Docker](401-24.md)
+- [Reading 25 - Permissions & Postgresql](401-25md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
