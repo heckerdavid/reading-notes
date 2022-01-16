@@ -79,6 +79,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 24 - Django REST API, Docker](401-24.md)
 - [Reading 25 - Permissions & Postgresql](401-25.md)
 - [Reading 26 - Authentication & Production Server](401-26.md)
+- [Reading 27 - API Deployment](401-27.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
