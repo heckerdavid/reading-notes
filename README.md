@@ -80,6 +80,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 25 - Permissions & Postgresql](401-25.md)
 - [Reading 26 - Authentication & Production Server](401-26.md)
 - [Reading 27 - API Deployment](401-27.md)
+- [Reading 28 - Graphs](401-28.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
