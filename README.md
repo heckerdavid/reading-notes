@@ -84,6 +84,7 @@ Checkout my (in progress) [github](https://github.com/heckerdavid)!
 - [Reading 37 - React I](401-37.md)
 - [Reading 38 - React II](401-38.md)
 - [Reading 39 - React III](401-39.md)
+- [Reading 39 - React IV](401-41.md)
 
 ## `"Success teaches us nothing, only failure teaches"`
 
